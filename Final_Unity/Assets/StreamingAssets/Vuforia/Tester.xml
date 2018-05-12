@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="texture_1" size="400.000000 280.000000" />
+    <ImageTarget name="maze2" size="1.000000 1.003236" />
+    <ImageTarget name="maze" size="10.000000 10.032362" />
+    <ImageTarget name="rocks" size="2.000000 1.333333" />
+    <ImageTarget name="Marker-Test" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
